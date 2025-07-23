@@ -3,19 +3,19 @@ layout: default
 title: Argentina Pharma Programs
 ---
 
-# Argentina Pharma Programs
+<h1>Argentina Pharma Programs</h1>
 
-This chart shows government-run pharmaceutical programs in Argentina:
+<p>This chart shows government-run pharmaceutical programs in Argentina:</p>
 
 <iframe 
-  title="Argentina pharma programs" 
-  aria-label="Grouped Bars" 
+  title="A higher share of government spending is going towards healthcare amid Milei's austerity efforts" 
+  aria-label="Grouped Columns" 
   id="datawrapper-chart-6hm9F" 
-  src="https://datawrapper.dwcdn.net/6hm9F/2/" 
+  src="https://datawrapper.dwcdn.net/6hm9F/3/" 
   scrolling="no" 
   frameborder="0" 
-  style="width: 0; min-width: 100% !important; border: none;" 
-  height="1266" 
+  style="width: 100%; border: none;" 
+  height="456" 
   data-external="1">
 </iframe>
 
