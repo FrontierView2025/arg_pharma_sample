@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Argentina Pharma Programs
+title: Argentina healthcare spending update
 ---
 
-<h1>Argentina Pharma Programs</h1>
+<h1>Healthcare takes greater share of national spending after a year and a half of austerity from Milei</h1>
 
-<p>This chart shows government-run pharmaceutical programs in Argentina:</p>
+<p>Healthcare spending has proven an exception as the share of national spending allocated to healthcare has risen despite an aggressive austerity agenda from the Milei administration. This is being driven by sharp real declines in other areas compared to healthcare in 2024, which actually increased in real terms after strong spending in H2 2024. In 2023, healthcare spending was 3.6% of government spending, but in 2025, healthcare has accounted for 5.9% of spending.
+</p>
 
 <iframe 
   title="A higher share of government spending is going towards healthcare amid Milei's austerity efforts" 
