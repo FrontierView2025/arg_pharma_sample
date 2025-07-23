@@ -3,7 +3,7 @@ layout: default
 title: Argentina healthcare spending update
 ---
 
-<h1>Healthcare takes greater share of national spending after a year and a half of austerity from Milei</h1>
+<h1>Argentina H1 2025 Healthcare Spending Update: Healthcare takes greater share of national spending after a year of austerity from Milei</h1>
 
 <p>Healthcare spending has proven an exception as the share of national spending allocated to healthcare has risen despite an aggressive austerity agenda from the Milei administration. This is being driven by sharp real declines in other areas compared to healthcare in 2024, which actually increased in real terms after strong spending in H2 2024. In 2023, healthcare spending was 3.6% of government spending, but in 2025, healthcare has accounted for 5.9% of spending.</p>
 
@@ -33,19 +33,4 @@ title: Argentina healthcare spending update
   data-external="1">
 </iframe>
 
-<script type="text/javascript">
-!function(){
-  "use strict";
-  window.addEventListener("message",function(a){
-    if(void 0!==a.data["datawrapper-height"]){
-      var e=document.querySelectorAll("iframe");
-      for(var t in a.data["datawrapper-height"])
-        for(var r,i=0;r=e[i];i++)
-          if(r.contentWindow===a.source){
-            var d=a.data["datawrapper-height"][t]+"px";
-            r.style.height=d;
-          }
-    }
-  })
-}();
-</script>
+<p>For more analysis, please visit <a href="https://frontierview.com/" target="_blank" rel="noopener noreferrer">FrontierView's website</a>_
